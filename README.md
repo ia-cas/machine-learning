@@ -14,33 +14,33 @@
 
 ###非线性
 
-4.Week4 决策树&近邻
+4.Week4 矩阵分解（svd，pca）(Tianjun.ml)
 
-5.Week5 支持向量
+5.Week5 决策树&近邻(zcq)
 
 ###无监督学习
 
-6.Week6 聚类算法概览（1）
+6.Week6 聚类算法概览（1）(Jacoxu)
 
-7.Week7 聚类学习算法概览（2）
+7.Week7 聚类学习算法概览（2）(Jacoxu)
 
-8.Week8 主题模型
+8.Week8 支持向量机(lbc)
 
 ###其他
 
-9.Wee9 降维（svd，pca）
+9.Wee9 主题模型(wp)
 
-10.Week10 常见算法并行化分析
+10.Week10 常见算法并行化分析(Tianjun.ml)
 
 --------------
 
 ##进阶
 
-11.Week11 Boosting & Bagging
+11.Week11 Boosting & Bagging(sw)
 
-12.Week12 Ensemble
+12.Week12 Ensemble(sw, zcq)
 
-13.Week13 Learning to Rank
+13.Week13 Learning to Rank(Tianjun.ml)
 
 注：神经网络相关内容在组会中多次提及，因此并未列入。
 
