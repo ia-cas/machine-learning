@@ -6,11 +6,11 @@
 ##有监督学习
 
 ###线性
-1.[Week1 线性回归模型（1）](http://libingchen.me/16/)
+1.[Week1 线性回归模型（1）](http://libingchen.me/1/)
 
-2.[Week2 线性回归模型（2）](http://libingchen.me/18/)
+2.[Week2 线性回归模型（2）](http://libingchen.me/2/)
 
-3.Week3 线性分类器
+3.[Week3 线性分类器](http://libingchen.me/4)
 
 ###非线性
 
