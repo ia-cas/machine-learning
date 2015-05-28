@@ -16,7 +16,7 @@
 
 4.Week4 矩阵分解（svd，pca）(Tianjun.ml)
 
-5.Week5 决策树&近邻(zcq)
+5.[Week5 决策树&近邻(zcq)](https://www.zybuluo.com/bird/note/108544)
 
 ###无监督学习
 
